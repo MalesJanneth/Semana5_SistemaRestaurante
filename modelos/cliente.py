@@ -5,7 +5,7 @@ class Cliente:
         self.telefono = telefono
     
     def mostrar_informacion(self):
-        return f"Cliente: {self.nombre} Telefóno: {self.telefono}"
+        return f"Cliente: {self.nombre} Teléfono: {self.telefono}"
 
     def __str__ (self):
         return self.mostrar_informacion()
