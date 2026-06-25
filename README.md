@@ -1,5 +1,5 @@
 Hola, Soy Janneth Talía Males Conejo
-**Descripción del proyecto:**Este proyecto consiste en un sistema de restaurante desarrollado e Python utilizando el paradigma Programación Orientada a Objetos (POO).
+**Descripción del proyecto:** Este proyecto consiste en un sistema de restaurante desarrollado e Python utilizando el paradigma Programación Orientada a Objetos (POO).
 Este sistema permite registrar productos disponibles en el restaurante y clientes registrados. Además, utiliza una estructura modular organizada en carpetas para separar responsabilidades y facilitar el mantenimiento del código. 
 La estructura del proyecto cuenta con una carpeta principal restaurante en donde se colocan las carpetas modelos, servicio y main.py, a su vez en la carpeta modelos contamos con dos archivo que representan los modelos producto.py y ciente.py y en la carpeta servicios tenemos el archivo restaurante.py. Tambien cuenta con un archi main.py que cumple la función de inicilizador y un archivo README.md para la presente descripción.
 **Estructura en Python:**

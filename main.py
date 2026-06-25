@@ -1,7 +1,7 @@
 #Importar clases
-from modelos.producto import Producto
-from modelos.cliente import Cliente
-from servicios.restaurante import Restaurante
+from app_restaurante.modelos.producto import Producto
+from app_restaurante.modelos.cliente import Cliente
+from app_restaurante.servicios.restaurante import Restaurante
 
 #Crear restaurante
 restaurante = Restaurante("\n- Delicias Mercy -")
